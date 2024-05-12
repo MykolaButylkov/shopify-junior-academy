@@ -26,6 +26,44 @@
         "enable_language_selector": false
       }
     },
+    "section_slider_products_mnQR7p": {
+      "type": "section-slider-products",
+      "blocks": {
+        "product_jYapUz": {
+          "type": "product",
+          "settings": {
+            "proposal_product": "chain-bracelet"
+          }
+        },
+        "product_R93EFN": {
+          "type": "product",
+          "settings": {
+            "proposal_product": "leather-anchor"
+          }
+        },
+        "product_CbyEnN": {
+          "type": "product",
+          "settings": {
+            "proposal_product": "boho-earrings"
+          }
+        },
+        "product_wTxNQm": {
+          "type": "product",
+          "settings": {
+            "proposal_product": "choker-with-triangle"
+          }
+        }
+      },
+      "block_order": [
+        "product_jYapUz",
+        "product_R93EFN",
+        "product_CbyEnN",
+        "product_wTxNQm"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -47,6 +85,7 @@
   },
   "order": [
     "announcement-bar",
+    "section_slider_products_mnQR7p",
     "header"
   ]
 }
